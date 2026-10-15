@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>تحديث نظام إدارة المزرعة</title>
+        <item>
+            <title>1.0.0</title>
+            <description>
+                <![CDATA[
+                <h3>ما الجديد:</h3>
+                <ul>
+                    <li>إطلاق الإصدار الأول من نظام إدارة المزرعة.</li>
+                    <li>إضافة شاشات العمال، المقاولين، المخازن، والتقارير.</li>
+                </ul>
+                ]]>
+            </description>
+            <!-- هنا رابط ملف الـ EXE الخاص بك -->
+            <enclosure 
+                url="https://github.com/blackhole112556/farme_maneger/raw/refs/heads/main/FarmManager_Setup.exe"
+                sparkle:version="1.0.0" 
+                sparkle:os="windows" />
+        </item>
+    </channel>
+</rss>
