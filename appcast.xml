@@ -18,7 +18,7 @@
             </description>
             <!-- رابط ملف الـ EXE ورقم الإصدار البرمجي الجديد -->
             <enclosure 
-                url="https://github.com/blackhole112556/farme_maneger/raw/refs/heads/main/FarmManager_Setup.exe"
+                url="https://github.com/blackhole112556/farme_maneger/raw/refs/heads/main/farm_manager.exe"
                 sparkle:version="1.0.1" 
                 sparkle:os="windows" />
         </item>
