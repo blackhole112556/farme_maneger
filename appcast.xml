@@ -2,25 +2,30 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
     <channel>
         <title>تحديث نظام إدارة المزرعة</title>
+        <link>https://github.com/blackhole112556/farme_maneger</link>
+        <language>ar</language>
         <item>
-            <!-- رقم الإصدار الجديد الذي سيظهر للمستخدم -->
-            <title>1.0.1</title>
+            <title>الإصدار 1.0.1</title>
+            <pubDate>Sat, 24 Oct 2026 12:00:00 +0000</pubDate>
             <description>
                 <![CDATA[
                 <h3>ما الجديد في تحديث 1.0.1:</h3>
                 <ul>
+                    <li>إضافة شاشة متكاملة لتسجيل الملاحظات اليومية للمحاصيل والربط مع الاستعلامات.</li>
                     <li>إضافة شاشة متكاملة للملخص المالي ولوحة القيادة.</li>
                     <li>تحسين نظام تسجيل العمالة اليومية والتحضير السريع.</li>
                     <li>دعم إضافة مقاولين وربط العمال بهم.</li>
-                    <li>إصلاحات عامة لتحسين الأداء والسرعة.</li>
+                    <li>إصلاحات عامة لتحسين الأداء والسرعة واستقرار المزامنة.</li>
                 </ul>
                 ]]>
             </description>
-            <!-- رابط ملف الـ EXE ورقم الإصدار البرمجي الجديد -->
+            <!-- رابط التحميل ورقم الإصدار للمقارنة والعرض -->
             <enclosure 
                 url="https://github.com/blackhole112556/farme_maneger/raw/refs/heads/main/farm_manager.exe"
-                sparkle:version="1.0.0" 
-                sparkle:os="windows" />
+                sparkle:version="1.0.1" 
+                sparkle:shortVersionString="1.0.1"
+                sparkle:os="windows"
+                type="application/octet-stream" />
         </item>
     </channel>
 </rss>
