@@ -21,7 +21,7 @@
             </description>
             <!-- رابط التحميل ورقم الإصدار للمقارنة والعرض -->
             <enclosure 
-                url="https://github.com/blackhole112556/farme_maneger/raw/refs/heads/main/farm_manager.exe"
+                url="https://github.com/blackhole112556/farme_maneger/raw/refs/heads/main/FarmManager_Setup.exe"
                 sparkle:version="1.0.1" 
                 sparkle:shortVersionString="1.0.1"
                 sparkle:os="windows"
